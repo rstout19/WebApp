@@ -115,3 +115,9 @@
 - **Asked:** Finish the app and prepare a shareable GitHub Pages link.
 - **Changed:** Implemented beam and load visualization, reactions, shear and moment diagrams, deflection calculations, bending stress checks, pass/fail results, member section properties, and an example reset. Verified the W12x26 uniform-load example produces 50.0 kip-ft and 0.609 in.
 - **Worked:** Yes for implementation and push. GitHub Pages settings could not be enabled because GitHub is not signed in in the browser session.
+
+### Request 20
+
+- **Asked:** Verify the GitHub Pages settings after they were updated.
+- **Changed:** Rechecked the repository and public Pages URL; GitHub Pages became available and the app was opened successfully at the public URL. Added this prompt log entry.
+- **Worked:** Yes.
