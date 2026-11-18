@@ -103,3 +103,15 @@
 - **Asked:** Prepare the project to publish on GitHub.
 - **Changed:** Reviewing and committing the app, spec, and prompt log changes for GitHub Pages publication.
 - **Worked:** Yes; the app was verified over a local HTTP server and is ready to commit for GitHub Pages.
+
+### Request 18
+
+- **Asked:** Fix trouble changing inputs and getting new values.
+- **Changed:** Added live mockup label updates for span and point/uniform loads, and clarified the calculate action feedback; no structural calculations were added.
+- **Worked:** Yes; verified in the browser that changing the span and point-load magnitude updates the mockup labels.
+
+### Request 19
+
+- **Asked:** Finish the app and prepare a shareable GitHub Pages link.
+- **Changed:** Implemented beam and load visualization, reactions, shear and moment diagrams, deflection calculations, bending stress checks, pass/fail results, member section properties, and an example reset. Verified the W12x26 uniform-load example produces 50.0 kip-ft and 0.609 in.
+- **Worked:** Pending syntax, commit, push, and GitHub Pages verification.
